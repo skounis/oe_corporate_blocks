@@ -27,6 +27,11 @@ function oe_corporate_blocks_theme() {
       'variables' => [
         'corporate_sidebar' => []
       ]
+    ],
+      'oe_corporate_blocks_login' => [
+      'variables' => [
+        'corporate_login' => []
+      ]
     ]
   ];
 }

@@ -1,0 +1,9 @@
+.cnct-dropdown p,
+.cnct-dropdown a {
+  color: #fff;
+}
+
+.cnct-dropdown .ecl-dropdown__body {
+  background: #404040;
+  padding: 5px 10px;
+}

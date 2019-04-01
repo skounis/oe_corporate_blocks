@@ -1,0 +1,9 @@
+login:
+  version: 1.x
+  css:
+    theme:
+      css/login.css: {}
+  js:
+    js/login.js: {}
+  dependencies:
+    - core/jquery
