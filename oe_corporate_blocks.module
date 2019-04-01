@@ -18,6 +18,16 @@ function oe_corporate_blocks_theme() {
         'custom_footer' => [],
       ],
     ],
+    'oe_corporate_blocks_styleguide' => [
+      'variables' => [
+        'corporate_styleguide' => []
+      ]
+    ],
+    'oe_corporate_blocks_sidebar' => [
+      'variables' => [
+        'corporate_sidebar' => []
+      ]
+    ]
   ];
 }
 
